@@ -1,3 +1,5 @@
 content of the site
-==highlight==
+
+*can not highlight*
+
 **bold**
