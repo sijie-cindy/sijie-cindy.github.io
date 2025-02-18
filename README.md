@@ -1,1 +1,3 @@
-# sijie-cindy.github.io
+content of the site
+==highlight==
+**bold**
